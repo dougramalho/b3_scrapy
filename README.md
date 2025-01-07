@@ -41,7 +41,7 @@ O projeto inclui um notebook Athena que permite:
 b3_scrapy/
 ├── src/
 │   ├── scrapper/
-│   │   ├── init.py
+│   │   ├── __init__.py
 │   │   ├── constants.py
 │   │   ├── lambda_function.py
 │   │   └── scrapper.py
