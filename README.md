@@ -38,12 +38,12 @@ O projeto inclui um notebook Athena que permite:
 
 ## Estrutura do Projeto
 
-b3_scrapy/
-├── src/
-│   ├── scrapper/
-│   │   ├── __init__.py
-│   │   ├── constants.py
-│   │   ├── lambda_function.py
-│   │   └── scrapper.py
-│   └── run.py
-└── requirements.txt
+b3_scrapy
+- src
+  - scrapper
+    - __init__.py
+    - constants.py
+    - lambda_function.py
+    - scrapper.py
+  - run.py
+- requirements.txt
